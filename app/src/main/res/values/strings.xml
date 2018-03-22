@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">YouTubeApp</string>
+    <string name="no_network_available_message">No network available</string>
+    <string name="permissions_request_message">This app needs to access your Google account (via Contacts).</string>
+    <string name="request_google_play_services_error_message">This app requires Google Play Services. Please install Google Play Services on your device and relaunch this app.</string>
+    <string name="result_is_empty_message">No results returned.</string>
+    <string name="request_cancelled_message">Request cancelled.</string>
+    <string name="unknown_error_message">Something went wrong(</string>
 </resources>
